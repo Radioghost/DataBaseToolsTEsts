@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DatabaseDbTool">
+    <option name="sources">
+      <map>
+        <entry key="localhost">
+          <value>
+            <DataConfigSourceDto>
+              <option name="comment" value="" />
+              <option name="dataBaseType" value="MySql" />
+              <option name="database" value="test1" />
+              <option name="databaseName" value="localhost" />
+              <option name="databaseSslConfig">
+                <DatabaseSslConfig>
+                  <option name="caFile" value="" />
+                  <option name="clientCertificateFile" value="" />
+                  <option name="clientKeyFile" value="" />
+                  <option name="clientKeyPassword" value="" />
+                  <option name="sslMode" value="REQUIRE" />
+                </DatabaseSslConfig>
+              </option>
+              <option name="dbFile" value="" />
+              <option name="driverType" value="MySQL" />
+              <option name="host" value="localhost" />
+              <option name="jarUrl" value="C:\Users\qazwe\AppData\Roaming\JetBrains\PyCharmCE2022.2\jdbc-drivers\MySQL ConnectorJ\8.0.21\mysql-connector-java-8.0.21.jar" />
+              <option name="myUniqueId" value="e35d6364-fe7c-4580-889e-9a73f1e623ab" />
+              <option name="port" value="3306" />
+              <option name="properties">
+                <map />
+              </option>
+              <option name="schemaSourceDto">
+                <SchemaSourceDto>
+                  <option name="name" value="test1" />
+                </SchemaSourceDto>
+              </option>
+              <option name="sid" value="" />
+              <option name="url" value="jdbc:mysql://localhost:3306/test1?useSSL=false&amp;serverTimezone=Asia/Krasnoyarsk" />
+              <option name="userName" value="root" />
+            </DataConfigSourceDto>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
